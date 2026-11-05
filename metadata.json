@@ -1,0 +1,6 @@
+{
+  "name": "Royal Care",
+  "description": "Telemedicine consultation and secure payment gateway system supporting bKash, Nagad, Rocket, Upay, instant calls, and financial dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
